@@ -20,7 +20,7 @@ No estará disponible para iOS ni Windows Phone, por el momento
 
 Para instalar la app en el smartphone solo se necesitará el apk, el cual se podra obtener a partir del siguiente link:
 ```
-Link aqui
+* Link [aqui](http://www.mediafire.com/file/w65wdkuyfa06kyz/takeit.apk)
 ``` 
 
 ## Deployment 📦
